@@ -37,7 +37,8 @@
          "com.google.android.gm",
          "com.skype.raider",
          "com.facebook.orca",
-         "com.snapchat.android"
+         "com.snapchat.android",
+         "org.telegram.messenger"
       ],
       "localizableDescription": {
          "en-US": "This challenge includes apps and sites like WhatsApp and Snapchat",
@@ -68,7 +69,8 @@
       "id": "0da5104b-eb24-4d75-bca3-4794a6d40e27",
       "localizableName": {
          "en-US": "Games",
-         "nl-NL": "Games"
+         "nl-NL": "
+         "
       },
       "mandatoryNoGo": false,
       "smoothwallCategories": [
@@ -98,7 +100,8 @@
          "com.rovio.gold",
          "com.rovio.popcorn",
          "com.rovio.Toons.tv",
-         "com.nianticlabs.pokemongo"
+         "com.nianticlabs.pokemongo",
+         "com.hbwares.wordfeud.free"
       ],
       "localizableDescription": {
          "en-US": "This challenge includes apps and sites like Candy Crush and Angry Birds",
